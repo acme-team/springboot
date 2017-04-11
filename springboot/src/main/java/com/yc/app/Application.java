@@ -13,6 +13,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class Application {
 
 	public static void main(String[] args) {
+		//运行服务器
 		SpringApplication.run(Application.class,args);
 	}
 }
